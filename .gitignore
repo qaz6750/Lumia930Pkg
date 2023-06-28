@@ -1,1 +1,9 @@
-*.bak
+workspace
+*.dll
+*.mbn
+*.elf
+ramdisk
+.vscode
+*.swp
+*.rej
+*.orig
